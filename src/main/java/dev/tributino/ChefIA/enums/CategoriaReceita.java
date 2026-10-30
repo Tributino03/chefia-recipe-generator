@@ -1,0 +1,24 @@
+package dev.tributino.ChefIA.enums;
+
+public enum CategoriaReceita {
+    ENTRADAS,
+    SALADAS,
+    SOPAS_E_CALDOS,
+    PRATOS_PRINCIPAIS,
+    ACOMPANHAMENTOS,
+    MASSAS,
+    CARNES,
+    AVES,
+    PEIXES_E_FRUTOS_DO_MAR,
+    LANCHES,
+    SANDUICHES,
+    PETISCOS,
+    SOBREMESAS,
+    BOLOS_E_TORTAS,
+    PAES_E_SALGADOS,
+    DOCES,
+    BEBIDAS,
+    CAFÉ_DA_MANHÃ,
+    RECEITAS_VEGETARIANAS,
+    RECEITAS_VEGANAS
+}
